@@ -123,7 +123,7 @@ namespace CCCD_Client.Component
 
             clearForm();
 
-            
+
 
             this.data = new Identity();
 
